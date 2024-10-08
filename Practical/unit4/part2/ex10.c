@@ -18,7 +18,7 @@ int main()
         printf("\n");
     }
 
-    //For storing it inside another arra
+    //For storing it inside another array
 
     // for (int i = 0; i < 2; i++)
     // {
